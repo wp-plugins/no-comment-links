@@ -17,7 +17,10 @@ will automatically be turned into a clickable link when it is displayed.  This
 plugin disables this behavior for http, ftp, and e-mail links.
 
 Note that comments can include the HTML tags necessary to create links, if you
-allow HTML in comments, and these links will not be removed.
+allow HTML in comments, and these links will not be removed.  This also allows
+you as the administrator to get around the "no comments in links" rule enforced
+by this plugin, since administrators (and editors) by default can post comments
+with unfiltered HTML.
 
 == Changelog ==
 
