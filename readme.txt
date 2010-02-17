@@ -1,6 +1,6 @@
 === Plugin Name ===
 Contributors: aaron44126
-Tags: flash, upload, ssl
+Tags: comment, comments, links, url
 Requires at least: 1.5
 Tested up to: 2.9.2
 Stable tag: 1.0.1
