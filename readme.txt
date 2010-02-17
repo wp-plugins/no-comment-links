@@ -16,7 +16,7 @@ blog.  Ordinarily, if a user types something like http://www.google.com/, it
 will automatically be turned into a clickable link when it is displayed.  This
 plugin disables this behavior for http, ftp, and e-mail links.
 
-Note that comments that include the HTML tags necessary to create links, if you
+Note that comments can include the HTML tags necessary to create links, if you
 allow HTML in comments, and these links will not be removed.
 
 == Changelog ==
