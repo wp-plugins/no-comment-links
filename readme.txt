@@ -2,7 +2,7 @@
 Contributors: aaron44126
 Tags: comment, comments, links, url
 Requires at least: 1.5
-Tested up to: 3.4.1
+Tested up to: 3.5
 Stable tag: 1.0.1
 
 When activated, disables automatic parsing and creation of clickable links in
